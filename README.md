@@ -1,5 +1,5 @@
 # 💫 About Me:
-Machine Learning & Deep Learning Engineer with a strong Computer Engineering foundation, specializing in Generative AI, Agentic AI, and LLM systems. I build production-ready AI pipelines spanning RAG architectures, multi-agent systems, LLM fine-tuning (LoRA/QLoRA), and context engineering. Proficient in the full model lifecycle — from data engineering and experiment tracking to cloud deployment and MLOps. Constantly pushing the frontier with hands-on work in VLMs, Vision Transformers, and autonomous agent frameworks like LangGraph,MCP.
+Machine Learning & Deep Learning Engineer with a strong Computer Engineering foundation, specializing in Generative AI, Agentic AI, and production LLM systems. I design and build end-to-end AI solutions — from fine-tuning LLMs and SLMs using LoRA/QLoRA, RLHF, and DPO, to architecting multi-agent systems with LangGraph and MCP. Deep hands-on experience in RAG pipelines (hybrid retrieval, reranking, RAGAS evaluation), Context Engineering, and Vision-Language Models built on Vision Transformers and Variational Autoencoders. Comfortable across the full MLOps lifecycle — experiment tracking, cloud deployment (AWS, Azure, GCP), containerization, and production monitoring.
 
 
 ## 🌐 Socials:
